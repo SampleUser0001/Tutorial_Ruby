@@ -18,6 +18,8 @@ Rubyのチュートリアル
     - [join](./app/08_list_join.rb)
 - main宣言
     - [main宣言](./app/09_main.rb)
+- 特殊な文字列表現
+    - [パーセント記法](./app/10_parcent.rb)
 
 ## 参考
 
