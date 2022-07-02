@@ -20,6 +20,12 @@ Rubyのチュートリアル
     - [main宣言](./app/09_main.rb)
 - 特殊な文字列表現
     - [パーセント記法](./app/10_parcent.rb)
+- コレクション/コンテナ
+    - [配列](./app/11_list.rb)
+        - [ブラケット構文](./app/12_bracket.rb)
+        - [fetch](./app/13_list_fetch.rb)
+            - 配列外の添字を指定したときにエラーにならずに何を返すかを指定する。
+        - [clone](./app/14_list_clone.rb)
 
 ## 参考
 
