@@ -26,6 +26,7 @@ Rubyのチュートリアル
         - [fetch](./app/13_list_fetch.rb)
             - 配列外の添字を指定したときにエラーにならずに何を返すかを指定する。
         - [clone](./app/14_list_clone.rb)
+    - [Set](./app/15_set.rb)
 
 ## 参考
 
