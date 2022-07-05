@@ -27,6 +27,7 @@ Rubyのチュートリアル
             - 配列外の添字を指定したときにエラーにならずに何を返すかを指定する。
         - [clone](./app/14_list_clone.rb)
     - [Set](./app/15_set.rb)
+    - [Hash](./app/16_hash.rb)
 
 ## 参考
 
