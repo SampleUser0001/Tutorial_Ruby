@@ -33,6 +33,8 @@ Rubyのチュートリアル
     - [require](./app/18_require.rb)
 - ジェネレータ
     - [generator](./app/19_generator.rb)
+- クラス
+    - [class](./app/20_class.rb)
 
 ## 参考
 

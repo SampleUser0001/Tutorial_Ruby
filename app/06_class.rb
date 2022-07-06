@@ -8,6 +8,7 @@ class SampleClass
     end
 end
 class SampleClass
+    # getterとsetterを両方宣言する。
     attr_accessor :name
 end
 
