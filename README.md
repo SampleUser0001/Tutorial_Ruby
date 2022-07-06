@@ -28,6 +28,8 @@ Rubyのチュートリアル
         - [clone](./app/14_list_clone.rb)
     - [Set](./app/15_set.rb)
     - [Hash](./app/16_hash.rb)
+- 外部ファイルを読み込む
+    - [require_relative](./app/17_require_relative.rb)
 
 ## 参考
 
