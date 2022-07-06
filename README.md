@@ -31,6 +31,8 @@ Rubyのチュートリアル
 - 外部ファイルを読み込む
     - [require_relative](./app/17_require_relative.rb)
     - [require](./app/18_require.rb)
+- ジェネレータ
+    - [generator](./app/19_generator.rb)
 
 ## 参考
 
