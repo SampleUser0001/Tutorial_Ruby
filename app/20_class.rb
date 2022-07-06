@@ -6,4 +6,12 @@ if __FILE__ == $0
     
     puts hoge.value
     p piyo.value
+    
+    hoge.sampleFunc()
+    hoge.putsPrivateValue()
+
+    # privateなので呼べない。
+    # hoge.privateSampleFunc()
+    
+    SampleClass.classMethod()
 end
