@@ -30,6 +30,7 @@ Rubyのチュートリアル
     - [Hash](./app/16_hash.rb)
 - 外部ファイルを読み込む
     - [require_relative](./app/17_require_relative.rb)
+    - [require](./app/18_require.rb)
 
 ## 参考
 
