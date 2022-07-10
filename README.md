@@ -36,6 +36,8 @@ Rubyのチュートリアル
 - クラス
     - [class](./app/20_class.rb)
     - [継承](./app/21_extends.rb)
+- 例外
+    - [例外](./app/22_raise_exception.rb)
 
 ## 参考
 
