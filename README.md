@@ -35,6 +35,7 @@ Rubyのチュートリアル
     - [generator](./app/19_generator.rb)
 - クラス
     - [class](./app/20_class.rb)
+    - [継承](./app/21_extends.rb)
 
 ## 参考
 
